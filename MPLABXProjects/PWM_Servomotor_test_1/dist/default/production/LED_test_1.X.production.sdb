@@ -1,0 +1,46 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F88 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.31\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"38 C:\Users\Takuya\MPLABXProjects\LED_test_1.X\main.c
+[v _main main `(i  1 e 2 0 ]
+"166 C:/Program Files/Microchip/MPLABX/v5.45/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f88.h
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+"228
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"578
+[v _T2CON T2CON `VEuc  1 e 1 @18 ]
+"733
+[v _CCPR1L CCPR1L `VEuc  1 e 1 @21 ]
+"740
+[v _CCPR1H CCPR1H `VEuc  1 e 1 @22 ]
+"747
+[v _CCP1CON CCP1CON `VEuc  1 e 1 @23 ]
+"1087
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"1149
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1335
+[v _OSCCON OSCCON `VEuc  1 e 1 @143 ]
+"1464
+[v _PR2 PR2 `VEuc  1 e 1 @146 ]
+"1735
+[v _ANSEL ANSEL `VEuc  1 e 1 @155 ]
+"2413
+[v _RB0 RB0 `VEb  1 e 0 @48 ]
+"2581
+[v _TMR2ON TMR2ON `VEb  1 e 0 @146 ]
+"38 C:\Users\Takuya\MPLABXProjects\LED_test_1.X\main.c
+[v _main main `(i  1 e 2 0 ]
+{
+"80
+} 0
